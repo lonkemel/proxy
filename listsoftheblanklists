@@ -1,0 +1,58 @@
+#EXTM3U
+
+#EXTINF:-1, Nickelodeon
+https://ddy1.onlinewebtv.lol/ddy1/premium330/playlist.m3u8
+
+#EXTINF:-1, Oprah Winfrey Network
+https://ddy1.onlinewebtv.lol/ddy1/premium331/playlist.m3u8
+
+#EXTINF:-1, UNIMAS
+https://ddy1.onlinewebtv.lol/ddy1/premium133/playlist.m3u8
+
+#EXTINF:-1, Win Sports +
+https://ddy1.onlinewebtv.lol/ddy1/premium392/playlist.m3u8
+
+#EXTINF:-1, ID
+https://ddy1.onlinewebtv.lol/ddy1/premium324/playlist.m3u8
+
+#EXTINF:-1, Nick Jr
+https://ddy1.onlinewebtv.lol/ddy1/premium329/playlist.m3u8
+
+#EXTINF:-1, Bravo
+https://ddy6.onlinewebtv.lol/ddy6/premium307/playlist.m3u8
+
+#EXTINF:-1, Freeform
+https://ddy6.onlinewebtv.lol/ddy6/premium301/playlist.m3u8
+
+#EXTINF:-1, BET
+https://ddy6.onlinewebtv.lol/ddy6/premium306/playlist.m3u8
+
+#EXTINF:-1, ABC
+https://ddy1.onlinewebtv.lol/ddy1/premium51/playlist.m3u8
+
+#EXTINF:-1, TLC
+https://ddy1.onlinewebtv.lol/ddy1/premium337/playlist.m3u8
+
+#EXTINF:-1, Animal Planet
+https://ddy5.onlinewebtv.lol/ddy5/premium304/playlist.m3u8
+
+#EXTINF:-1, Disney XD
+https://ddy6.onlinewebtv.lol/ddy6/premium314/playlist.m3u8
+
+#EXTINF:-1, CN
+https://ddy6.onlinewebtv.lol/ddy6/premium314/playlist.m3u8
+
+#EXTINF:-1, Travel Channel
+https://ddy1.onlinewebtv.lol/ddy1/premium340/playlist.m3u8
+
+#EXTINF:-1, CW Philladelphia
+https://ddy6.onlinewebtv.lol/ddy6/premium300/playlist.m3u8
+
+#EXTINF:-1, Caracol
+https://ssh101.bozztv.com/ssh101/1ch352453m/playlist.m3u8
+
+#EXTINF:-1 Caracol HD
+https://live.telelatinohd.com:8080/MTA4LjMxLjE3Ni4xNzY=/59_.m3u8?token=CTQNLydlcmsqEjSXc6zuow&expires=1676255010
+
+#EXTINF:-1, Investigacion Discovery
+https://live.telelatinohd.com:8080/MTA4LjMxLjE3Ni4xNzY=/98_.m3u8?token=YPfANHlGI5ejGpzhRip5_A&expires=1676255117
